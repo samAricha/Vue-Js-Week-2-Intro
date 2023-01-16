@@ -1,6 +1,6 @@
 # montana-d3
 
-This template should help get you started developing with Vue 3 in Vite.
+This project contains ToDo app, Tip Calculator etc...
 
 ## Recommended IDE Setup
 
